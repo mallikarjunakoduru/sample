@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 1699-B030
-
- Directory of C:\Users\malli\Desktop\My Project
-
-03/14/2017  04:08 PM    <DIR>          .
-03/14/2017  04:08 PM    <DIR>          ..
-03/14/2017  04:08 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  808,306,634,752 bytes free
+chenges are made 
